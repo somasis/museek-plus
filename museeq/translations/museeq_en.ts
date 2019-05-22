@@ -2464,12 +2464,12 @@ Choose passive if you&apos;re unsure.</source>
     </message>
     <message>
         <location filename="../userinfo.cpp" line="161"/>
-        <source>He likes:</source>
+        <source>Likes:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../userinfo.cpp" line="163"/>
-        <source>He hates:</source>
+        <source>Hates:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
